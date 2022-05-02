@@ -248,7 +248,7 @@ header{
                 list-style-type: disc;
                 list-style-position: inside;
                 padding-top: 50px;
-                color: antiquewhite;
+                color:map-get($colors,"blanco");
             }
             .intergrid_sub {
                 padding-top: 100px;
