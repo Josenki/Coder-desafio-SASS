@@ -1,2 +1,19 @@
 $color-titulos:#01352e;
 $border-images:#379683;
+$blanco:#edf0f1;
+$hueso:#edf5e1;
+$azul:#05386b;
+$ancho:400px;
+
+@mixin tamano ($width, $height){
+    height: $height;
+    width: $width;
+}
+
+$colors:(
+    "negro": $color-titulos,
+    "verde": $border-images,
+    "blanco": $blanco,
+    "hueso": $hueso,
+    "azul": $azul
+);
