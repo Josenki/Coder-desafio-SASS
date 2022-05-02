@@ -187,7 +187,8 @@ header {
     padding-bottom: 300px;
     padding-top: 150px;
     margin: 0%;
-    padding: 0%; }
+    padding: 0%;
+    grid-template-columns: 800px 400px; }
     .grid .intergrid {
       font-size: 3rem; }
       .grid .intergrid .intergrid_titulo {
@@ -202,8 +203,8 @@ header {
         margin-left: 80px; }
         .grid .intergrid .intergrid_sub .intergrid_sub_map {
           border-radius: 25px;
-          width: 250px;
-          height: 200px;
+          width: 150px;
+          height: 1500px;
           margin-left: 2rem; }
   .titulossec {
     font-family: American Typewriter, serif;
@@ -246,7 +247,8 @@ header {
     padding-bottom: 300px;
     padding-top: 150px;
     margin: 0%;
-    padding: 0%; }
+    padding: 0%;
+    grid-template-columns: 800px 200px; }
     .grid .intergrid {
       font-size: 3rem; }
       .grid .intergrid .intergrid_titulo {
@@ -262,8 +264,8 @@ header {
         margin-left: 20px; }
         .grid .intergrid .intergrid_sub .intergrid_sub_map {
           border-radius: 25px;
-          width: 20px;
-          height: 200px;
+          width: 150px;
+          height: 150px;
           margin-left: 2rem; } }
 
 @media screen and (max-width: 1000px) {
@@ -288,8 +290,8 @@ header {
     padding-left: 0%; }
     .imagen .imagen_gafas {
       border-radius: 75px;
-      height: 250px;
-      width: 250px;
+      height: 200px;
+      width: 200px;
       display: flex;
       border: 10px solid #379683;
       justify-content: center; } }
