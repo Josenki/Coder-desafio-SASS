@@ -116,11 +116,11 @@ header {
     font-size: 2.5rem;
     padding: 10px 10px 10px 10px;
     border-radius: 8px;
-    border: 4px solid #379683;
+    border: 4px solid #055a53;
     background-color: #379683;
     color: #379683; }
     .form .form_button:hover {
-      background-color: #379683;
+      background-color: #055a53;
       color: #edf0f1; }
 
 .titulossec {

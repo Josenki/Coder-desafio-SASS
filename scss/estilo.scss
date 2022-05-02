@@ -146,11 +146,11 @@ header{
         font-size: 2.5rem;
         padding: 10px 10px 10px 10px;
         border-radius: 8px;
-        border: 4px solid map-get($colors,"verde");
+        border: 4px solid map-get($colors,"azul");
         background-color:$border-images ;
         color: map-get($colors,"verde");
         &:hover {
-            background-color:map-get($colors,"verde");
+            background-color:map-get($colors,"azul");
             color:map-get($colors, "blanco");
           }
     }
