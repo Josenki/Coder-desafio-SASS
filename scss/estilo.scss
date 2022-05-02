@@ -132,7 +132,7 @@ header{
     padding-left: 15px;
     margin: 15px 15px 15px ;
     text-align: center;
-    color:map-get($colors, "blanco");;
+    color:map-get($colors, "blanco");
 
     .form_object {
         margin-top: 30px;
@@ -147,11 +147,11 @@ header{
         padding: 10px 10px 10px 10px;
         border-radius: 8px;
         border: 4px solid map-get($colors,"verde");
-        background-color:$border-images ;
-        color: map-get($colors,"negro");
+        background-color:$border-images;
+        color:$color-titulos;
         &:hover {
-            background-color:map-get($colors,"azul");
-            color:map-get($colors, "blanco");
+            background-color:$azul;
+            color:$blanco;
           }
     }
 
