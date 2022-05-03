@@ -156,7 +156,7 @@ header {
     .grid .intergrid_sub .intergrid_sub_map {
       border-radius: 25px;
       height: 250px;
-      width: 500px; }
+      width: 350px; }
 
 @media screen and (max-width: 600px) {
   .manu_opcion, .menu_opcion_link {
