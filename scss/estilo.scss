@@ -195,9 +195,9 @@ header{
         }       
         .intergrid_sub {
             padding-top: 25px;
-            margin-left: 25px;
+            margin-left: 10px;
             .intergrid_sub_map {
-                margin-left: 20px;
+                margin-left: 10px;
                 @include tamano (350px, 250px);
             }
         }
@@ -256,11 +256,10 @@ header{
             }
             .intergrid_sub {
                 padding-top: 100px;
-                margin-left: 80px;
+                margin-left: 15px;
                 .intergrid_sub_map {
                     border-radius: 25px;
                     @include tamano (300px, 250px);
-                    margin-left: 1rem;
                     padding-left: 20px;
                 }
             }
@@ -329,9 +328,8 @@ header{
                 font-size: 3rem;
                 .intergrid_sub {
                     padding-top: 100px;
-                    margin-left: 1rem;
+                    margin-left: 10px;
                     .intergrid_sub_map{
-                        margin-left: 1rem;
                         padding-left: 20px;
                     }
                 }
@@ -383,12 +381,11 @@ header{
             }
             .intergrid_sub {
                 padding-top: 100px;
-                margin-left: 20px;
+                margin-left: 10px;
                 .intergrid_sub_map {
                     border-radius: 25px;
                     @include tamano (300px, 250px);
-                    margin-left: 1rem;
-                    padding-left: 20px;
+                    padding-left: 10px;
                 }
             }
             
