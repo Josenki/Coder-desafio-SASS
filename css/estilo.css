@@ -187,8 +187,7 @@ header {
     padding-bottom: 300px;
     padding-top: 150px;
     margin: 0%;
-    padding: 0%;
-    grid-template-columns: 800px 400px; }
+    padding: 0%; }
     .grid .intergrid {
       font-size: 3rem; }
       .grid .intergrid .intergrid_titulo {
@@ -291,8 +290,8 @@ header {
         margin-left: 20px; }
         .grid .intergrid .intergrid_sub .intergrid_sub_map {
           border-radius: 25px;
-          width: 150px;
-          height: 150px;
+          width: 100px;
+          height: 100px;
           margin-left: 2rem; } }
 
 HTML {
