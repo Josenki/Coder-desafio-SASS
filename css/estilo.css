@@ -275,8 +275,7 @@ header {
     padding-bottom: 300px;
     padding-top: 150px;
     margin: 0%;
-    padding: 0%;
-    grid-template-columns: 800px 200px; }
+    padding: 0%; }
     .grid .intergrid {
       font-size: 3rem; }
       .grid .intergrid .intergrid_titulo {
