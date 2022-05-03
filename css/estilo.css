@@ -202,9 +202,9 @@ header {
         margin-left: 80px; }
         .grid .intergrid .intergrid_sub .intergrid_sub_map {
           border-radius: 25px;
-          width: 150px;
-          height: 1500px;
-          margin-left: 2rem; }
+          margin-left: 2rem;
+          height: 250px;
+          width: 300px; }
   .titulossec {
     font-family: American Typewriter, serif;
     font-size: 30px;
@@ -291,9 +291,9 @@ header {
         margin-left: 20px; }
         .grid .intergrid .intergrid_sub .intergrid_sub_map {
           border-radius: 25px;
-          width: 100px;
-          height: 100px;
-          margin-left: 2rem; } }
+          margin-left: 2rem;
+          height: 250px;
+          width: 500px; } }
 
 HTML {
   background: url(https://ibb.co/199n3zw) no-repeat center center fixed;

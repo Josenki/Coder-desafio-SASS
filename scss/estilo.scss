@@ -258,9 +258,8 @@ header{
                 margin-left: 80px;
                 .intergrid_sub_map {
                     border-radius: 25px;
-                    width: 150px;
-                    height: 1500px;
                     margin-left: 2rem;
+                    @include tamano (300px, 250px);
                 }
             }
         
@@ -381,9 +380,8 @@ header{
                 margin-left: 20px;
                 .intergrid_sub_map {
                     border-radius: 25px;
-                    width: 100px;
-                    height: 100px;
                     margin-left: 2rem;
+                    @include tamano (500px, 250px);
                 }
             }
             
