@@ -382,7 +382,7 @@ header{
                 list-style-position: inside;
                 padding-top: 50px;
                 margin-bottom: 30px;
-                color: antiquewhite;
+                color: map-get($colors, "hueso");
             }
             .intergrid_sub {
                 padding-top: 100px;
@@ -415,7 +415,7 @@ HTML  {
         margin-right: 30px;
         &:hover {
             background-color: $border-images;
-            color: white;
+            color: map-get($colors,"blanco");
             transition:all .3s;   
           }   
     }
@@ -423,7 +423,7 @@ HTML  {
 }
 
 .container-fluid {
-    color: aliceblue;
+    color: map-get($colors,"hueso");
 }
 
 .cuerpo {

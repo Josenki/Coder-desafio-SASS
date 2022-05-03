@@ -293,7 +293,7 @@ header {
         list-style-position: inside;
         padding-top: 50px;
         margin-bottom: 30px;
-        color: antiquewhite; }
+        color: #edf5e1; }
       .grid .intergrid .intergrid_sub {
         padding-top: 100px;
         margin-left: 10px;
@@ -315,11 +315,11 @@ HTML {
     margin-right: 30px; }
     .navbar .nav-item:hover {
       background-color: #379683;
-      color: white;
+      color: #edf0f1;
       transition: all .3s; }
 
 .container-fluid {
-  color: aliceblue; }
+  color: #edf5e1; }
 
 .cuerpo {
   background: url(../img/203514.jpg) no-repeat center center fixed; }
