@@ -153,9 +153,9 @@ header {
     color: #edf5e1; }
   .grid .intergrid_sub {
     padding-top: 25px;
-    margin-left: 30px; }
+    margin-left: 15px; }
     .grid .intergrid_sub .intergrid_sub_map {
-      margin-left: 35px;
+      margin-left: 20px;
       border-radius: 25px;
       height: 250px;
       width: 350px; }
@@ -207,7 +207,7 @@ header {
           height: 250px;
           width: 300px;
           margin-left: 2rem;
-          padding-left: 35px; }
+          padding-left: 20px; }
   .titulossec {
     font-family: American Typewriter, serif;
     font-size: 30px;
@@ -300,7 +300,7 @@ header {
           height: 250px;
           width: 300px;
           margin-left: 2rem;
-          padding-left: 35px; } }
+          padding-left: 20px; } }
 
 HTML {
   background: url(https://ibb.co/199n3zw) no-repeat center center fixed;
