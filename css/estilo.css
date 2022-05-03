@@ -153,12 +153,13 @@ header {
     color: #edf5e1; }
   .grid .intergrid_sub {
     padding-top: 25px;
-    margin-left: 10px; }
+    margin-left: 10px;
+    border-radius: 25px; }
     .grid .intergrid_sub .intergrid_sub_map {
-      border-radius: 25px;
       margin-left: 15px;
       height: 250px;
-      width: 350px; }
+      width: 350px;
+      border-radius: 25px; }
 
 @media screen and (max-width: 600px) {
   .manu_opcion, .menu_opcion_link {
@@ -201,12 +202,13 @@ header {
         color: #edf0f1; }
       .grid .intergrid .intergrid_sub {
         padding-top: 100px;
-        margin-left: 15px; }
+        margin-left: 15px;
+        border-radius: 25px; }
         .grid .intergrid .intergrid_sub .intergrid_sub_map {
-          border-radius: 25px;
           height: 250px;
           width: 300px;
-          padding-left: 20px; }
+          padding-left: 20px;
+          border-radius: 25px; }
   .titulossec {
     font-family: American Typewriter, serif;
     font-size: 30px;
@@ -253,10 +255,11 @@ header {
         font-size: 45px; }
       .grid .intergrid .intergrid_sub {
         padding-top: 100px;
-        margin-left: 10px; }
+        margin-left: 10px;
+        border-radius: 25px; }
         .grid .intergrid .intergrid_sub .intergrid_sub_map {
-          border-radius: 25px;
-          padding-left: 20px; }
+          padding-left: 20px;
+          border-radius: 25px; }
   .imagen {
     display: flex;
     flex-direction: column;
@@ -293,12 +296,13 @@ header {
         color: antiquewhite; }
       .grid .intergrid .intergrid_sub {
         padding-top: 100px;
-        margin-left: 10px; }
+        margin-left: 10px;
+        border-radius: 25px; }
         .grid .intergrid .intergrid_sub .intergrid_sub_map {
-          border-radius: 25px;
           height: 250px;
           width: 300px;
-          padding-left: 10px; } }
+          padding-left: 10px;
+          border-radius: 25px; } }
 
 HTML {
   background: url(https://ibb.co/199n3zw) no-repeat center center fixed;

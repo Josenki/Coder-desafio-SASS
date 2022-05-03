@@ -196,10 +196,11 @@ header{
         .intergrid_sub {
             padding-top: 25px;
             margin-left: 10px;
+            border-radius: 25px;
             .intergrid_sub_map {
-                border-radius: 25px;
                 margin-left: 15px;
                 @include tamano (350px, 250px);
+                border-radius: 25px;
             }
         }
         
@@ -258,10 +259,11 @@ header{
             .intergrid_sub {
                 padding-top: 100px;
                 margin-left: 15px;
+                border-radius: 25px;
                 .intergrid_sub_map {
-                    border-radius: 25px;
                     @include tamano (300px, 250px);
                     padding-left: 20px;
+                    border-radius: 25px;
                 }
             }
         
@@ -330,9 +332,10 @@ header{
                 .intergrid_sub {
                     padding-top: 100px;
                     margin-left: 10px;
+                    border-radius: 25px;
                     .intergrid_sub_map{
-                        border-radius: 25px;
                         padding-left: 20px;
+                        border-radius: 25px;
                     }
                 }
             }
@@ -384,10 +387,11 @@ header{
             .intergrid_sub {
                 padding-top: 100px;
                 margin-left: 10px;
+                border-radius: 25px;
                 .intergrid_sub_map {
-                    border-radius: 25px;
                     @include tamano (300px, 250px);
                     padding-left: 10px;
+                    border-radius: 25px;
                 }
             }
             
