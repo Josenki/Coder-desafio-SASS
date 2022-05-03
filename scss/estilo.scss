@@ -316,44 +316,7 @@ header{
     
 }
 
-@media  screen and (max-width:380px){
-  
-    .grid {
-        display: flex;
-        padding-bottom: 300px;
-        padding-top: 150px;
-        margin: 0%;
-        padding: 0%;
-        grid-template-columns: $ancho * 2 200px;
-        .intergrid {
-            .intergrid_titulo{
-            font-size: 45px;
-            }
-            font-size: 3rem;
-            ul.intergrid_list {
-                list-style-type: disc;
-                list-style-position: inside;
-                padding-top: 50px;
-                margin-bottom: 30px;
-                color: antiquewhite;
-            }
-            .intergrid_sub {
-                padding-top: 100px;
-                margin-left: 20px;
-                .intergrid_sub_map {
-                    border-radius: 25px;
-                    width: 150px;
-                    height: 150px;
-                    margin-left: 2rem;
-                }
-            }
-            
-        }    
-    }
-
-}
-
-    @media  screen and (max-width:1000px){
+@media  screen and (max-width:1000px){
 
         .grid {
             display: block;
@@ -390,6 +353,43 @@ header{
         }
 
 
+
+}
+
+@media  screen and (max-width:380px){
+  
+    .grid {
+        display: flex;
+        padding-bottom: 300px;
+        padding-top: 150px;
+        margin: 0%;
+        padding: 0%;
+        grid-template-columns: $ancho * 2 200px;
+        .intergrid {
+            .intergrid_titulo{
+            font-size: 45px;
+            }
+            font-size: 3rem;
+            ul.intergrid_list {
+                list-style-type: disc;
+                list-style-position: inside;
+                padding-top: 50px;
+                margin-bottom: 30px;
+                color: antiquewhite;
+            }
+            .intergrid_sub {
+                padding-top: 100px;
+                margin-left: 20px;
+                .intergrid_sub_map {
+                    border-radius: 25px;
+                    width: 150px;
+                    height: 150px;
+                    margin-left: 2rem;
+                }
+            }
+            
+        }    
+    }
 
 }
 
