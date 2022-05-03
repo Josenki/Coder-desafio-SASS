@@ -258,8 +258,9 @@ header{
                 margin-left: 80px;
                 .intergrid_sub_map {
                     border-radius: 25px;
-                    margin-left: 2rem;
                     @include tamano (300px, 250px);
+                    margin-left: 2rem;
+                    padding-left: 35px;
                 }
             }
         
@@ -328,6 +329,10 @@ header{
                 .intergrid_sub {
                     padding-top: 100px;
                     margin-left: 2rem;
+                    .intergrid_sub_map{
+                        margin-left: 2rem;
+                        padding-left: 35px;
+                    }
                 }
             }
         }
@@ -380,8 +385,9 @@ header{
                 margin-left: 20px;
                 .intergrid_sub_map {
                     border-radius: 25px;
+                    @include tamano (300px, 250px);
                     margin-left: 2rem;
-                    @include tamano (500px, 250px);
+                    padding-left: 35px;
                 }
             }
             

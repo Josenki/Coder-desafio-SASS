@@ -202,9 +202,10 @@ header {
         margin-left: 80px; }
         .grid .intergrid .intergrid_sub .intergrid_sub_map {
           border-radius: 25px;
-          margin-left: 2rem;
           height: 250px;
-          width: 300px; }
+          width: 300px;
+          margin-left: 2rem;
+          padding-left: 35px; }
   .titulossec {
     font-family: American Typewriter, serif;
     font-size: 30px;
@@ -252,6 +253,9 @@ header {
       .grid .intergrid .intergrid_sub {
         padding-top: 100px;
         margin-left: 2rem; }
+        .grid .intergrid .intergrid_sub .intergrid_sub_map {
+          margin-left: 2rem;
+          padding-left: 35px; }
   .imagen {
     display: flex;
     flex-direction: column;
@@ -291,9 +295,10 @@ header {
         margin-left: 20px; }
         .grid .intergrid .intergrid_sub .intergrid_sub_map {
           border-radius: 25px;
-          margin-left: 2rem;
           height: 250px;
-          width: 500px; } }
+          width: 300px;
+          margin-left: 2rem;
+          padding-left: 35px; } }
 
 HTML {
   background: url(https://ibb.co/199n3zw) no-repeat center center fixed;
