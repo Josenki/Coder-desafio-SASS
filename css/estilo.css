@@ -153,10 +153,9 @@ header {
     color: #edf5e1; }
   .grid .intergrid_sub {
     padding-top: 25px;
-    margin-left: 15px; }
+    margin-left: 25px; }
     .grid .intergrid_sub .intergrid_sub_map {
       margin-left: 20px;
-      border-radius: 25px;
       height: 250px;
       width: 350px; }
 
@@ -206,7 +205,7 @@ header {
           border-radius: 25px;
           height: 250px;
           width: 300px;
-          margin-left: 2rem;
+          margin-left: 1rem;
           padding-left: 20px; }
   .titulossec {
     font-family: American Typewriter, serif;
@@ -254,10 +253,10 @@ header {
         font-size: 45px; }
       .grid .intergrid .intergrid_sub {
         padding-top: 100px;
-        margin-left: 2rem; }
+        margin-left: 1rem; }
         .grid .intergrid .intergrid_sub .intergrid_sub_map {
-          margin-left: 2rem;
-          padding-left: 35px; }
+          margin-left: 1rem;
+          padding-left: 20px; }
   .imagen {
     display: flex;
     flex-direction: column;
@@ -299,7 +298,7 @@ header {
           border-radius: 25px;
           height: 250px;
           width: 300px;
-          margin-left: 2rem;
+          margin-left: 1rem;
           padding-left: 20px; } }
 
 HTML {
